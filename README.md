@@ -1,2 +1,2 @@
 # codethatwork
-Open directory for code snippets for website codethatwork.com
+Open directory containing code snippets for website codethatwork.com
